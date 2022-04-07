@@ -45,8 +45,10 @@ yarn add node-sass
 yarn add ityped
 yarn add html-react-parser
 yarn add @mui/icons-material --network-timeout 500000
+yarn add @mui/material
 yarn add @material-ui/core
 yarn add @emotion/styled
+yarn add @emotion/react
 ```
 ## Learn More
 
