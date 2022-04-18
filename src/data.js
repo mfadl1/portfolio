@@ -92,7 +92,7 @@ export const frontendSkill = [
       img:
         "assets/gff.jpg",
       link:
-        "https://github.com/mfadl1/portfolio",
+        "https://ganffest.com/",
     },
     {
       id: "3",
