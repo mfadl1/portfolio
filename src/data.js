@@ -78,11 +78,11 @@ export const frontendSkill = [
       id: "1",
       title: "Employee KPI Management Information System",
       desc:
-        "Create a responsive website to help Masjid Salman ITB in managing KPI of its employee <br/><br/> Technologies : Vue.js, Laravel, Postman, Mysql",
+        "Create a responsive web application to help Masjid Salman ITB in managing KPI of its employee <br/><br/> Technologies : Vue.js, Laravel, Postman, Mysql",
       img:
         "assets/simkpi.jpg",
       link:
-        "https://gitlab.informatika.org/if3250_2022_36_simkpi",
+        "https://ppl-dev-front.salmanitb.com/",
     },
     {
       id: "2",
